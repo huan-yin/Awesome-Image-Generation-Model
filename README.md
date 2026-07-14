@@ -5,7 +5,6 @@
 ## Contents
 
 - [Overview](#overview)
-- [Model List](#model-list)
 - [2022](#2022)
 - [2023](#2023)
 - [2024](#2024)
@@ -17,8 +16,6 @@
 ## Overview
 
 This repository collects major open-source image generation models from 2022 to 2026, including diffusion models, autoregressive models, and hybrid architectures. Each entry includes the model name, release date, parameter count, releasing team, open-source link, and technical report.
-
-**Total models: 70**
 
 ---
 
