@@ -140,6 +140,7 @@ This repository collects major open-source image generation models from 2022 to 
 | SenseNova-Vision   | 2026-07-08                                   | 14 B (7 B active, BAGEL backbone)    | SenseNova                                                    | [GitHub](https://github.com/OpenSenseNova/SenseNova-Vision)  | [arXiv](https://arxiv.org/pdf/2607.06560)                    |
 | Qwen Image 3.0     | 2026-07-21                                   | None                                 | Qwen Team, Alibaba                                           | None                                                         | [Blog](https://qwen.ai/blog?id=qwen-image-3.0)                | 
 | Mage-Flow          | 2026-07-21                                   | 4 B                                  | Microsoft                                                    |  [GitHub](https://github.com/microsoft/Mage)                 | [arXiv](https://arxiv.org/pdf/2607.19064)                     |
+| Flux 3             | 2026-07-23                                   | None                                 | Black Forest Labs                                            |  None                                                        | [Blog](https://bfl.ai/blog/flux-3)                            |
 ---
 
 ## License
