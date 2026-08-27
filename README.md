@@ -141,6 +141,9 @@ This repository collects major open-source image generation models from 2022 to 
 | Qwen Image 3.0     | 2026-07-21                                   | None                                 | Qwen Team, Alibaba                                           | None                                                         | [Blog](https://qwen.ai/blog?id=qwen-image-3.0)                | 
 | Mage-Flow          | 2026-07-21                                   | 4 B                                  | Microsoft                                                    |  [GitHub](https://github.com/microsoft/Mage)                 | [arXiv](https://arxiv.org/pdf/2607.19064)                     |
 | Flux 3             | 2026-07-23                                   | None                                 | Black Forest Labs                                            |  None                                                        | [Blog](https://bfl.ai/blog/flux-3)                            |
+| Anima 2.9B         | 2026-08-12                                   | 2.9 B                                | Gazingstars123                                               |  [HuggingFace](https://huggingface.co/Gazingstars123/Anima-2.9B)                  | None                                          |
+| SenseNova-U1.5     | 2026-08-20                                   | 8 B                                  | SenseNova                                                    |  [HuggingFace](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT)      | None                    |
+| FIBO 1.5 <br> FIBO edit 1.5          | 2026-08-24                                   | 8 B                                  | BRIA AI                                                      |  [HuggingFace](https://huggingface.co/briaai/Fibo-1.5)  <br> [HuggingFace](https://huggingface.co/briaai/Fibo-Edit-1.5-turbo)                   | None                   |
 ---
 
 ## License
