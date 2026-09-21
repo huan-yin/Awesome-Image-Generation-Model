@@ -145,6 +145,7 @@ This repository collects major open-source image generation models from 2022 to 
 | SenseNova-U1.5     | 2026-08-20                                   | 8 B                                  | SenseNova                                                    |  [HuggingFace](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT)      | None                    |
 | FIBO 1.5 <br> FIBO edit 1.5          | 2026-08-24                                   | 8 B                                  | BRIA AI                                                      |  [HuggingFace](https://huggingface.co/briaai/Fibo-1.5)  <br> [HuggingFace](https://huggingface.co/briaai/Fibo-Edit-1.5-turbo)                   | None                   |
 | LLaDA-Image     | 2026-09-04                                   | 6 B                                  | inclusionAI, Ant Group                                          |  [HuggingFace](https://huggingface.co/inclusionAI/LLaDA-Image)       | [arXiv](https://arxiv.org/pdf/2609.03796)                  |
+| Qwen Image 2.1     | 2026-09-20                                   | 7 B                                 | Qwen Team, Alibaba                                           | [HuggingFace](https://huggingface.co/Qwen/Qwen-Image-2.1)     | [Blog](https://qwen.ai/blog?id=qwen-image-2.1)                | 
 ---
 
 ## License
