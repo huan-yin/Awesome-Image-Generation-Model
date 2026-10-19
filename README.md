@@ -147,6 +147,7 @@ This repository collects major open-source image generation models from 2022 to 
 | LLaDA-Image     | 2026-09-04                                   | 6 B                                  | inclusionAI, Ant Group                                          |  [HuggingFace](https://huggingface.co/inclusionAI/LLaDA-Image)       | [arXiv](https://arxiv.org/pdf/2609.03796)                  |
 | Qwen Image 2.1     | 2026-09-20                                   | 7 B                                 | Qwen Team, Alibaba                                           | [HuggingFace](https://huggingface.co/Qwen/Qwen-Image-2.1)     | [Blog](https://qwen.ai/blog?id=qwen-image-2.1)                | 
 | FLUX 3 Image Klein | 2026-10-15                                   | 5.6 B                                       | Black Forest Labs                            | [HuggingFace](https://huggingface.co/black-forest-labs/flux-3-image-klein) | [Blog](https://bfl.ai/blog/flux-3-image-klein) |
+| MOSS-Image         | 2026-10-16                                   | 5 B                                       |  MOSI Intelligence                             | [HuggingFace](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) | [arXiv](https://arxiv.org/pdf/2610.23374) |
 ---
 
 ## License
